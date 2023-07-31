@@ -64,12 +64,12 @@ tbody {
   border-right: 4em;
   padding: 50px;
   box-shadow: 1em 4em 12em black;
-  display: flex;
+  display: grid;
 }
 
 body {
   text-align: center;
-  display: flex;
+  display: grid;
   align-items: center;
   justify-content: center;
   font-family: "eurostile", sans-serif;
